@@ -22,7 +22,6 @@
 - Advanced Data Structures
 - Cloud Computing (AWS)
 - Machine Learning
-- DevOps
 
 ### 📊 GitHub Stats
 <p align="center">
